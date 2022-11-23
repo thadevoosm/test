@@ -28,13 +28,13 @@ margin-bottom: 30px;
   position: relative;
   top: 0;
   background-color: gray;
-  margin: 10px;
+  margin: 20px;
   border: 2px solid black;
   padding: 20px;
 }
 
-.temms p{
-  margin-top: 15px;
+.items p{
+  margin-top: 19px;
   text-align: justify;
   font-size: 100%;
 }
